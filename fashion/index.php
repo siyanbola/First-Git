@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  	  <title> Online Solar Store | Solar Panel | Solar Accessories | Solar Chargers </title>
+  	  <title> Online Fashion Store | Fashion Accessories </title>
 
   	  <meta charset="UTF-8">
 
